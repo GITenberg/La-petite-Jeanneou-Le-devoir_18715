@@ -1,0 +1,31 @@
+_repo: La-petite-Jeanneou-Le-devoir_18715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carraud, Zulma
+    alias: Carraud, Z. (Zulma)
+    birthdate: 1796
+    deathdate: 1889
+    gutenberg_agent_id: '6169'
+    url: http://www.gutenberg.org/2009/agents/6169
+    wikipedia: http://fr.wikipedia.org/wiki/Zulma_Carraud
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2006-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18715'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: 'La petite Jeanne
+
+  ou Le devoir'
+url: http://www.gutenberg.org/ebooks/18715
