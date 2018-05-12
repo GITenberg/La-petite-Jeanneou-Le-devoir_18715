@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6169
     wikipedia: http://fr.wikipedia.org/wiki/Zulma_Carraud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18715#La-petite-Jeanneou-Le-devoir
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2006-06-29'
 gutenberg_type: Text
